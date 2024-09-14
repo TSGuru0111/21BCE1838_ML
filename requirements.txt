@@ -1,0 +1,7 @@
+flask
+redis
+faiss-cpu
+numpy
+beautifulsoup4
+requests
+cohere
