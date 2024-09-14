@@ -294,7 +294,7 @@ Feel free to open issues or submit pull requests to contribute to the project.
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact [guruts2003@gmail.com].
 
 ---
 
