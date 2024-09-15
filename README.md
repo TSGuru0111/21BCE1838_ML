@@ -1,6 +1,4 @@
-Here’s a detailed `README.md` file for your project. It covers installation, setup, endpoints, and troubleshooting.
 
----
 
 # Document Retrieval and Chat API with Cohere
 
