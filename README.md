@@ -3,7 +3,6 @@
 # Document Retrieval and Chat API with Cohere
 
 This project is an API-based application for storing documents and retrieving relevant documents using the Cohere AI embeddings API. It also supports searching for similar documents using cosine similarity and provides a chat interface based on the stored documents.
-
 ## Features
 - Store documents and generate embeddings using Cohere.
 - Search for similar documents based on input text.
@@ -11,6 +10,10 @@ This project is an API-based application for storing documents and retrieving re
 - Chat interface using stored documents as context.
 - Uses SQLite as the primary database.
 - Caches search results using Redis for faster lookups.
+  
+![Readme](https://github.com/user-attachments/assets/bb4635b9-adbd-4d1b-b9e3-8a3873cae5ee)
+
+  
 
 ## Requirements
 
