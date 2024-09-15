@@ -11,7 +11,7 @@ from redis import Redis
 app = Flask(__name__)
 
 # Initialize Cohere API client with your API key
-co = cohere.Client('wvVOr2okWTUHAHq7iCHuVZ9FxhUexUL39JvqwrfC')
+co = cohere.Client('your_api_key')
 
 # Redis cache setup
 cache = Redis(host='localhost', port=6379, db=0)
