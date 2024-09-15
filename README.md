@@ -200,7 +200,7 @@ Checks if the API is running.
 **Request Body**:
 ```json
 {
-  "user_id": "user123",
+  "user_id": "123",
   "message": "How does AI work?",
   "top_k": 5
 }
