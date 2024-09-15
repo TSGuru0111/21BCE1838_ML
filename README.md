@@ -11,6 +11,7 @@ This project is an API-based application for storing documents and retrieving re
 - Uses SQLite as the primary database.
 - Caches search results using Redis for faster lookups.
   
+## FlowChart
 ![Readme](https://github.com/user-attachments/assets/bb4635b9-adbd-4d1b-b9e3-8a3873cae5ee)
 
   
